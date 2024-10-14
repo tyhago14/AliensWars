@@ -23,3 +23,7 @@ This game is built with a retro aesthetic in mind, providing a nostalgic experie
 
 Screenshots 🖼️
 ![Welcome Page](Imagens/imag1.jpeg)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Imagens/imag1.jpeg)  |  ![](Imagens/imag2.jpeg)
