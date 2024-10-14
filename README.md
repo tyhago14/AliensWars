@@ -22,4 +22,4 @@ This game is built with a retro aesthetic in mind, providing a nostalgic experie
     - Watch out for power-ups to boost your plane’s performance.
 
 Screenshots 🖼️
-
+![Welcome Page](Imagens/welcome.png)
