@@ -21,9 +21,10 @@ This game is built with a retro aesthetic in mind, providing a nostalgic experie
     - Survive through multiple waves of enemies, with each wave getting progressively harder.
     - Watch out for power-ups to boost your plane’s performance.
 
-Screenshots 🖼️
-![Welcome Page](Imagens/imag1.jpeg)
+## Screenshots 🖼️
 
-Solarized dark             |  Solarized Ocean
+Screenshots 1           | Screenshot 2
 :-------------------------:|:-------------------------:
-![](Imagens/imag1.jpeg)  |  ![](Imagens/imag2.jpeg)
+<img src="Imagens/imag1.jpeg" width="350"/>  |  <img src="Imagens/imag2.jpeg" width="350"/>
+
+
